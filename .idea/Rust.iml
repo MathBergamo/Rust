@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Variables/Cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Variables/cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Variables/ex01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables/ex09/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Variables/Cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Variables/cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Variables/ex01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex02/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex02/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex03/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex04/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex05/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex06/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex07/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex08/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Variables/ex09/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
