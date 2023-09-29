@@ -19,6 +19,15 @@
       <sourceFolder url="file://$MODULE_DIR$/Variables/ex07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Variables/ex08/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Variables/ex09/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex09/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Numbers/ex11/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Variables/ex01/target" />
       <excludeFolder url="file://$MODULE_DIR$/Variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/Variables/Cargo/target" />
@@ -36,6 +45,15 @@
       <excludeFolder url="file://$MODULE_DIR$/Variables/ex07/target" />
       <excludeFolder url="file://$MODULE_DIR$/Variables/ex08/target" />
       <excludeFolder url="file://$MODULE_DIR$/Variables/ex09/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex03/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex04/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex05/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex06/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex07/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex08/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex09/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Numbers/ex11/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
